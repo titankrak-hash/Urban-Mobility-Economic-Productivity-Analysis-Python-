@@ -7,7 +7,7 @@ Python data analysis project focused on exploring the relationship between urban
 # 📂 Project Files
 
 ### 📓 Jupyter Notebook
-➡️ **[https://github.com/titankrak-hash/Urban-Mobility-Economic-Productivity-Analysis-Python-/tree/main](https://github.com/titankrak-hash/Urban-Mobility-Economic-Productivity-Analysis-Python-/tree/main#:~:text=urban_mobility_analysis.ipynb.ipynb)**
+➡️ **[[https://github.com/titankrak-hash/Urban-Mobility-Economic-Productivity-Analysis-Python-/tree/main](https://github.com/titankrak-hash/Urban-Mobility-Economic-Productivity-Analysis-Python-/tree/main#:~:text=urban_mobility_analysis.ipynb.ipynb)](https://github.com/titankrak-hash/Urban-Mobility-Economic-Productivity-Analysis-Python-/blob/main/urban_mobility_analysis.ipynb.ipynb)**
 
 ### 📊 Clean Dataset
 ➡️ **https://github.com/titankrak-hash/Urban-Mobility-Economic-Productivity-Analysis-Python-/blob/main/mobility_productivity_2024.csv.csv**
